@@ -2,11 +2,7 @@
 
 Team Aspiria  
 Members:  
-- Prabhu Koge  
-- Omkar Shinde  
-- Aniket Patil  
 - Rutuja Nandale  
-- Dhanashree Thete  
 
 ## Project Overview
 This project involves performing Business Data Analysis to uncover insights and trends that support informed decision-making, business growth, and performance optimization.
